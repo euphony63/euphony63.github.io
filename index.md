@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/euphony63/euphony63/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a PhD student in finance. My research interests are institutional investors, corporate finance, externalities, and applied econometrics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Below are some graphs about my research identity:
 
 ```markdown
 Syntax highlighted code block
