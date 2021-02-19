@@ -24,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ![](https://github.com/euphony63/euphony63.github.io/blob/gh-pages/quantile%20regression.png)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+%For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
