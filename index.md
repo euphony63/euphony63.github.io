@@ -5,7 +5,7 @@ I'm a PhD student in finance. My research interests are institutional investors,
 ### Below are some graphs about my research identity:
 
 ```markdown
-![Image](https://github.com/euphony63/euphony63.github.io/blob/gh-pages/quantile%20regression.png)
+![](https://github.com/euphony63/euphony63.github.io/blob/gh-pages/quantile%20regression.png)
 
 Syntax highlighted code block
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+![](https://github.com/euphony63/euphony63.github.io/blob/gh-pages/quantile%20regression.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
